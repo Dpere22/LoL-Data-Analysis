@@ -16,7 +16,7 @@ my gameplay on a large scale to get a solid understanding of my gameplay.
 
 # Central Question 
 The central question to this data analysis is: what components of my League of Legends gameplay
-contribute to getting more assists? Players of LoL may nd the question odd in asking about assists
+contribute to getting more assists? Players of LoL may find the question odd in asking about assists
 rather than kills or wins. However, in this case it is warranted considering I primarily play the role of
 support. Players of this role will often quantify their skill by how many assists they get during a game.
 Therefore, I will be using assists as my dependent variable for this analysis.
